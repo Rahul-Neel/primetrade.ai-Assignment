@@ -24,12 +24,12 @@ Features
 
 
 HOW TO RUN THE BOT 
-1. create virtual Environment 
+# create virtual Environment 
 python -m venv venv
 source venv/bin/activate  # On Windows use venv\Scripts\activate
 
-2 . Install Dependencies
+# Install Dependencies
 pip install -r requirements.txt
 
-3. Run the bot
+# Run the bot
 python main.py
