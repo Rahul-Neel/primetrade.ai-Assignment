@@ -1,0 +1,5 @@
+2025-07-28 13:18:45 - INFO - Binance client initialized in testnet mode
+2025-07-28 13:21:46 - ERROR - Stop-limit order error: name 'ORDER_TYPE_STOP' is not defined
+2025-07-28 13:22:57 - ERROR - Stop-limit order error: name 'ORDER_TYPE_STOP' is not defined
+2025-07-28 13:23:42 - INFO - Limit Order Response: {'orderId': 5488515591, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ4eb0f1c0fc3ebcc639cf6b', 'price': '70000.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1753689221997}
+2025-07-28 13:24:20 - ERROR - Stop-limit order error: name 'ORDER_TYPE_STOP' is not defined

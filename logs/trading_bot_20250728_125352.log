@@ -1,0 +1,2 @@
+2025-07-28 12:54:20 - INFO - Binance client initialized in testnet mode
+2025-07-28 12:55:29 - ERROR - Stop-limit order error: name 'ORDER_TYPE_STOP' is not defined

@@ -1,0 +1,5 @@
+2025-07-27 14:13:51,166 - ERROR - Binance API Error: APIError(code=None): None
+2025-07-27 14:15:05,330 - ERROR - Binance API Error: APIError(code=None): None
+2025-07-27 14:15:41,106 - ERROR - Binance API Error: APIError(code=None): None
+2025-07-27 14:17:39,065 - ERROR - Binance API Error: APIError(code=None): None
+2025-07-27 14:19:21,026 - ERROR - Binance API Error: APIError(code=-2014): API-key format invalid.

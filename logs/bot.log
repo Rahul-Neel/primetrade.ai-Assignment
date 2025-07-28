@@ -1,0 +1,28 @@
+2025-07-27 13:35:40,498 - INFO - Connected to Binance Futures Testnet
+2025-07-27 13:36:22,937 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-27 13:37:22,412 - INFO - Connected to Binance Futures Testnet
+2025-07-27 13:41:11,690 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-27 13:44:31,431 - INFO - Connected to Binance Futures Testnet
+2025-07-27 13:45:17,067 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-27 13:47:49,533 - INFO - Connected to Binance Futures Testnet
+2025-07-27 13:48:06,137 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-27 13:58:33,281 - INFO - Connected to Binance Futures Testnet
+2025-07-27 13:58:49,571 - INFO - Order placed: {'orderId': 5482133509, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJf7ac3969699525e806d91b', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1753604929032}
+2025-07-27 14:01:31,847 - INFO - Order placed: {'orderId': 4933267971, 'symbol': 'ETHUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJd0f531e94ae01a0cf46906', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.050', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1753605091351}
+2025-07-27 14:26:06,463 - INFO - Connected to Binance Futures Testnet
+2025-07-27 14:26:31,143 - INFO - Order placed: {'orderId': 5482248827, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ4e572e3f0e8fe93800082c', 'price': '60000.00', 'avgPrice': '0.00', 'origQty': '0.050', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1753606590616}
+2025-07-27 14:27:04,301 - INFO - Order placed: {'orderId': 5482250833, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ77dff2a19917783b3e9554', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.050', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1753606623775}
+2025-07-27 14:45:33,988 - INFO - Connected to Binance Futures Testnet
+2025-07-27 14:46:13,758 - INFO - User input: symbol=BTCUSDT, side=buy, type=stop limit, qty=0.01
+2025-07-27 14:46:57,654 - INFO - User input: symbol=BTCUSDT, side=buy, type=stop limit, qty=0.5
+2025-07-27 14:49:17,766 - INFO - \u2705 Connected to Binance Futures Testnet
+2025-07-27 14:50:05,113 - INFO - User input: symbol=BTCUSDT, side=buy, type=stop limit, qty=0.01
+2025-07-27 14:52:26,622 - INFO - User input: symbol=BTCUSDT, side=buy, type=stop_limit, qty=0.01
+2025-07-27 14:53:28,463 - ERROR - \u274c Order Failed: Price and stop price must be specified for stop-limit orders
+2025-07-27 14:58:25,172 - INFO - \u2705 Connected to Binance Futures Testnet
+2025-07-27 14:58:40,750 - INFO - User input: symbol=BTCUSDT, side=buy, type=stop limit, qty=0.01
+2025-07-27 14:59:15,558 - INFO - User input: symbol=BTCUSDT, side=buy, type=stop_limit, qty=0.01
+2025-07-27 15:02:04,650 - ERROR - \u274c Order Failed: name 'logging' is not defined
+2025-07-27 15:03:25,695 - INFO - \u2705 Connected to Binance Futures Testnet
+2025-07-27 15:03:42,262 - INFO - User input: symbol=BTCUSDT, side=buy, type=stop_limit, qty=0.01
+2025-07-27 15:04:48,460 - ERROR - Stop-limit order failed: API Secret required for private endpoints

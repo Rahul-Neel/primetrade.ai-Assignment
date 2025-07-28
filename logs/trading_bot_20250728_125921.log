@@ -1,0 +1,2 @@
+2025-07-28 12:59:52 - INFO - Binance client initialized in testnet mode
+2025-07-28 13:01:21 - ERROR - Stop-limit order error: APIError(code=-2021): Order would immediately trigger.
