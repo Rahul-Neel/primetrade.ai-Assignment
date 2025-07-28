@@ -1,1 +1,22 @@
-# primetrade.ai-Assignment
+This is a Binance Testnet-based trading bot developed for the PrimeTrade.ai assignment. The bot allows you to place various types of crypto orders (Market, Limit, Stop-Limit) using Binance's official API on the testnet environment.
+
+---
+
+Features
+
+- ✅ Supports the following order types:
+  - Market Order
+  - Limit Order
+  - Stop-Limit Order
+- 🔒 Secure handling of API credentials using `.env`
+- 📈 Trade logs stored in a local file (`logs/`)
+- 🧪 Testnet trading using [Binance Testnet](https://testnet.binancefuture.com/)
+- 📂 Clean project structure with logging and error handling
+
+---
+
+## ⚙️ Technologies Used
+
+- `python-binance` (Binance API wrapper)
+- `python-dotenv` (for managing environment variables)
+- `logging` (to store bot activity logs)
