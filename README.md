@@ -22,13 +22,14 @@ Features
 - `logging` (to store bot activity logs)
 
 
+
 HOW TO RUN THE BOT 
-# Create virtual environment
+1. create virtual Environment 
 python -m venv venv
 source venv/bin/activate  # On Windows use venv\Scripts\activate
 
-# Install dependencies
+2 . Install Dependencies
 pip install -r requirements.txt
 
-# Run the bot
+3. Run the bot
 python main.py
