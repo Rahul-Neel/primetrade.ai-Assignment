@@ -20,3 +20,15 @@ Features
 - `python-binance` (Binance API wrapper)
 - `python-dotenv` (for managing environment variables)
 - `logging` (to store bot activity logs)
+
+
+HOW TO RUN THE BOT 
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows use venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the bot
+python main.py
